@@ -20,14 +20,6 @@ MySQL, PostgreSQL
 
 **Tech Stack & Tools:**  
  Git
-
----
-
-
-📈 **GitHub Stats**
-
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=biliyajanardhan&show_icons=true&theme=radical&count_private=true&include_all_commits=true&custom_title=👩‍💻+Ananya's+AI/ML+Development+Stats" width="48%"/> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=biliyajanardhan&layout=compact&theme=radical&langs_count=10&hide=html" width="48%"/> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=biliyajanardhan&theme=radical" width="60%"/> </p>
-
 ---
 
 📬 **Let's Connect**
